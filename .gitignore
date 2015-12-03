@@ -1,0 +1,14 @@
+gae.auth
+bower_components
+node_modules
+app/static
+stratego.sublime-workspace
+stratego.sublime-project
+*.pyc
+
+js/*.js
+
+test/testBundle.js
+test/specs/*.js
+
+1.*.js
